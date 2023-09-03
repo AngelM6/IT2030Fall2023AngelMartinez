@@ -1,0 +1,1 @@
+My retail web application will be in clothing that focuses on simple essential apparel throughout the year. This retail web application will be named "MGN Clothing Co.". In this web application, it should allow users to search for and purchase various all kinds of apparel in different colors while representing the MGN brand.
