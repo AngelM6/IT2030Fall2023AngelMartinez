@@ -1,1 +1,3 @@
 My retail web application will be in clothing that focuses on simple essential apparel throughout the year. This retail web application will be named "MGN Clothing Co.". In this web application, it should allow users to search for and purchase various all kinds of apparel in different colors while representing the MGN brand.
+
+Within the main page there should be a home screen displaying what we have to offer to catch the user's attention.There should also be a brief description of what MGN clothing Co. represents. All while being user friendly to the allow users to make simple purchases within the web application.
