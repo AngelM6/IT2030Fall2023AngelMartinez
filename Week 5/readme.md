@@ -1,5 +1,5 @@
 For week 5 lab continuing from week 2 lab, I put the two paragraphs on the home page into 2 separate columns, changed the color of the nav bar to dark blue, applied the img-fluid rounded class to the flower.png image and changed the heading on the homepage.
-$~$
+&nbsp;
 I added an About Us page link to the nav bar as well as a razor view for the page and added the history, mission, and vison of MGN Clothing co.
 I also added a Contact us page link to the nav bar and razor view for the page. Added a model called ContactModel.cs within the models folder to gather the information the user is inputting such as their first name, last name, address, phone number, email, and their message.
 <br />
