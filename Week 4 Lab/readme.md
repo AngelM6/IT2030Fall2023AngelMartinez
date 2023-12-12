@@ -1,5 +1,6 @@
-For week 4 lab, I was asked to debug a web app that was provided.  The web app only calculated the tip amount that the user had to pay for their meal. It did not calculate the total. The web app also had various syntax errors as well as logic errors. 
-Here are the errors I encountered when debugging the web app.
+For week 4 lab, I was asked to debug a web app that was provided.  The web app only calculated the tip amount that the user had to pay for their meal. It did not calculate the total. The web app also had various syntax errors as well as logic errors.
+
+<p>Here are the errors I encountered when debugging the web app.</p>
 In site.css within the css folder: 
 Line 13: Syntax error, required width instead of “width”.
 
