@@ -9,7 +9,8 @@ In TipCalcualtor.cs within the models folder:
 Line 15: Error calculation, changed / to * to receive correct calculation.
 
 <p>In HomeControllers.cs within the controllers folder:</p>
-Line 15: Return method was missing.
 
-<p>I did have a slight issue in HomeControllers.cs line 14, I kept receiving error "The name 'ViewBag' does not exist in the current context" I retyped the line and somehow fixed the issue that I had. Unless I corrected the syntax subconsciously.</p>
+<p>Line 15: Return method was missing.</p>
+
+I did have a slight issue in HomeControllers.cs line 14, I kept receiving error "The name 'ViewBag' does not exist in the current context" I retyped the line and somehow fixed the issue that I had. Unless I corrected the syntax subconsciously.
 
