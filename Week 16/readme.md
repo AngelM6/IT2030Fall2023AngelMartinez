@@ -3,9 +3,10 @@
 2. Three features that can be added to improve my application for users is on the FAQ page where People can submit their questions and eventually be answered by an administrator. Another feature that can be added is on the Events page where I have a list of the events and users can just click on and automatically scroll down to the event rather than needing to scroll down to it. One last feature I would add is be able to slide through multiple images of a product rather than one to give the user different angles of the product to ensure the user the quality of the product.
 <p>3. I have decided to code the automatic scrolling feature to my events page. I used the scrollspy component using bootstrap and implemented it within the Events.cshtml within the Home folder in the Views folder. It can automatically update navigation or list group components based on scroll position to indicate which link is currently active in the viewport. It uses an anchor to be able to scroll where the developer desires so I anchored it to each event I had.</p>
 
-4.I changed the background color of the whole web app to lightslategrey to keep the MGN Clothing Co. theme and changed the background color of the FAQ page in FAQ.cshtml to cornflower blue to give the web app some color.
+4.I changed the background color of the whole web app to lightslategrey to keep the MGN Clothing Co. theme.
 <p>I changed the font of the web application within the custom.css file in the css folder from Arial to Times New Roman to make it easier on the eyes. </p>
-I changed the navbar in _Layout.cshtml allowing the navbar to blend into the background color.
+<p>I changed the navbar in _Layout.cshtml allowing the navbar to blend into the background color.</p>
+I also changed the background color of the FAQ page in FAQ.cshtml to cornflower blue to give the web app some color.
 
 <nav //class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-secondary border-bottom box-shadow mb-3">
 
