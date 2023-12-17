@@ -5,8 +5,8 @@
 
 4.I changed the background color of the whole web app to lightslategrey to keep the MGN Clothing Co. theme.
 <p>I changed the font of the web application within the custom.css file in the css folder from Arial to Times New Roman to make it easier on the eyes. </p>
-<p>I changed the navbar in _Layout.cshtml allowing the navbar to blend into the background color.</p>
-I also changed the background color of the FAQ page in FAQ.cshtml to cornflower blue to give the web app some color.
+I changed the navbar in _Layout.cshtml allowing the navbar to blend into the background color.
+<p>I also changed the background color of the FAQ page in FAQ.cshtml to cornflower blue to give the web app some color.</p>
 
 <nav //class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-secondary border-bottom box-shadow mb-3">
 
